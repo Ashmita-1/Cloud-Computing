@@ -16,6 +16,10 @@ Q4) <img width="1917" height="826" alt="image" src="https://github.com/user-atta
 Q5) <img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/b1f9d083-611e-43ab-b10b-52700fda1a3a" />
 <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/0def58ce-b857-4df7-8089-d08e88bef203" />
 
+Q6) <img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/984d8f4c-f0ee-43be-a64e-5522ea39703b" />
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/28c77553-9d27-43cf-bc3e-67ccd577c229" />
+
+
 
 
 
