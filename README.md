@@ -6,5 +6,15 @@ Q2) <img width="1918" height="1022" alt="image" src="https://github.com/user-att
 Q3) <img width="1915" height="662" alt="image" src="https://github.com/user-attachments/assets/3b221c67-ba73-4d24-afee-43b49d82ca72" />
 <img width="1714" height="785" alt="image" src="https://github.com/user-attachments/assets/1377ea85-c92b-4058-83f9-33cc8c958355" />
 
+Q4) <img width="1917" height="826" alt="image" src="https://github.com/user-attachments/assets/ec57497b-5124-4501-b5fa-fa6320d97524" />
+<img width="1918" height="551" alt="image" src="https://github.com/user-attachments/assets/73ecd966-ab5c-4024-a415-bce967cc2a4b" />
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/68fe2799-9f17-4a88-a348-a1062852d712" />
+<img width="1918" height="688" alt="image" src="https://github.com/user-attachments/assets/74bf7255-c8d6-4aac-8136-2f949a39989a" />
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/3500eb73-f7a7-4346-a5a6-231f59cf6d77" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/56aeb0f4-f9c1-456e-8c3a-da6fbd8fca6d" />
+
+
+
+
 
 
